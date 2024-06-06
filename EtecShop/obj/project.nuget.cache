@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8N7OwBBm/NMspi0rssRSft56ZED7QR5mPnMlJtPKpIJ3HFUdY/LcnLxPVSDQl+IX8xmziGpeLEk9Ku5fhuakWA==",
+  "dgSpecHash": "/qyEcof+/JAnp6yHyIgYUoqFLHVCAY90txNbeGmxnVmLbWIz9Tm4n8l2CVpWEQG/MuWh2BMFNgwC5KUEH96r4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\etec\\Desktop\\EtecShop\\EtecShop\\EtecShop.csproj",
+  "projectFilePath": "C:\\Users\\etec\\EtecShop\\EtecShop\\EtecShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\etec\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\etec\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.6\\microsoft.aspnetcore.cryptography.internal.8.0.6.nupkg.sha512",
